@@ -1,0 +1,6 @@
+Soarse (https://soarse.com/)
+Copyright Soarse Contributors
+
+This product includes software developed by
+OpenSearch (https://opensearch.org/).
+Copyright OpenSearch

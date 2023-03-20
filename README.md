@@ -1,0 +1,1 @@
+# The Russian Analysis plugin for OpenSearch
